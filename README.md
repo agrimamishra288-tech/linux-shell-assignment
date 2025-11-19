@@ -9,8 +9,11 @@ Date: 2025-11-18
 ## Environment setup
 
 OS: Windows 11 (WSL2 enabled)
+
 Linux Distribution: Ubuntu 24.04 LTS
+
 Kernel: 6.6.x microsoft-standard-wsl2
+
 Used for performing filesystem, process, networking, and shell scripting tasks.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
